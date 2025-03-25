@@ -1,1 +1,5 @@
-print("You been blaklist")
+local Blacklist = {
+    ["123567963512789321321145786456321678"] = true,
+}
+
+return Blacklist
