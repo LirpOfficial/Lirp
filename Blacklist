@@ -1,5 +1,0 @@
-local Blacklist = {
-    ["1"] = true,
-}
-
-return Blacklist
